@@ -4,8 +4,8 @@
 
 <div align="center">
 <h1>ChainTeleport</h1>
-<h2>Cross Chain Scavanger and Rescuer</h2>
-Every blockchain has their purposes, worth to be saved.
+<h2>:fire_engine: Cross Chain Scavanger and Rescuer :ambulance:</h2>
+:hammer_and_wrench: Every blockchain has their purposes, worth to be saved. :adhesive_bandage:
 <br>
 Build on Substrate.
   
